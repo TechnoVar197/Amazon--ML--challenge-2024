@@ -1,2 +1,1 @@
-*.ipynb 
-attempt/
+*/__pycache__
